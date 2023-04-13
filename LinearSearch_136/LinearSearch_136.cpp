@@ -28,9 +28,5 @@ void input()
 }
 void linearSearch()
 {
-	char ch;
-	int chr;
-}
-
 
 
