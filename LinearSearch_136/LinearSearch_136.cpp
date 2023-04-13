@@ -26,6 +26,11 @@ void input()
 		cin >> arr[i];
 	}
 }
+void linearSearch()
+{
+	char ch;
+	int chr;
+}
 
 
 
