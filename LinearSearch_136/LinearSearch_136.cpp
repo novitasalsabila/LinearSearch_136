@@ -31,5 +31,12 @@ void linearSearch()
 	char ch;
 	int ctr;
 
+	do
+	{
+		//Accept the number to be searched
+		cout << "Masukan data yang kamu cari ";	//Langkah no 1 algoritma
+		int item;
+		cin >> item;
+
 
 
